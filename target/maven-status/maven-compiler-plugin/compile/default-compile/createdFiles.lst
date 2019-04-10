@@ -1,0 +1,5 @@
+com\controller\UploadController.class
+com\controller\FileUploadController.class
+com\entity\User.class
+com\interceptor\LoginInterceptor.class
+com\controller\UserController.class
